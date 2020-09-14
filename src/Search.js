@@ -7,6 +7,7 @@ import { Button } from "@material-ui/core";
 import PeopleIcon from "@material-ui/icons/People";
 import { useHistory } from 'react-router-dom';
 
+
 //Date picker component
 function Search(){
     const history = useHistory();
@@ -26,4 +27,5 @@ function Search(){
         </div>
     )
 }
+
 export default Search

@@ -10,6 +10,7 @@
 .card > :hover{
     transform: scale(1.09);
 }
+
 .card >img{
     object-fit: fill;
     min-width: 300px;

@@ -13,4 +13,6 @@ function Card({src,title,description,price}){
         </div>
     )
 }
+
+
 export default Card

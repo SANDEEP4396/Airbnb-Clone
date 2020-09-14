@@ -4,6 +4,7 @@ import {Button} from "@material-ui/core";
 import Search from './Search'
 import { useHistory } from 'react-router-dom';
 
+
 //ES7 snippets to do 'rfce'
 function Banner(){
     const history = useHistory();

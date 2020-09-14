@@ -6,7 +6,7 @@ import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
 import { Avatar } from "@material-ui/core";
 import {Link} from "react-router-dom";
 
-//ES7 snippets to do 'rfce'
+
 function Header(){
     return(
         <div className='header'>

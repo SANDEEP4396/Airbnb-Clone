@@ -3,6 +3,7 @@ import './SearchResult.css';
 import FavoriteBorderIcon from '@material-ui/icons/FavoriteBorder';
 import StarIcon from '@material-ui/icons/Star';
 
+
 function SearchResult({
     img,location,title,description,star,price,total,
 }){
